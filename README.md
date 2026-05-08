@@ -2,7 +2,7 @@ Use the folder structure to find. Image links Can be used in Toolbox.gg/Raidplan
 
 Image URLS follow this format:
 
-https://raw.githubusercontent.com/cdmduelishere-hash/Boss-PNG/refs/heads/main/ [Patch + Fight] / [Image name]
+https://raw.githubusercontent.com/cdmduelishere-hash/Boss-PNG/refs/heads/main/ [Patch + Fight] /  [Phase] / [Image name]
 
 Example for DSR Phase 1 Boss 1
 
